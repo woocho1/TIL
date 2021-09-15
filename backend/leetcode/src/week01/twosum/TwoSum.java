@@ -1,6 +1,4 @@
-package level.easy.twosum;
-
-import java.util.Arrays;
+package week01.twosum;
 
 class Solution {
 
